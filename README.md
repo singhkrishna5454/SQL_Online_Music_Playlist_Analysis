@@ -7,5 +7,5 @@ This project is for to analyze the music playlist database. You can exmine the d
 Database and Tools
 > My SQL
 
-Schema- Music Store Database
+Schema- Music Playlist Database
 <img width="594" alt="schema_diagram" src="https://github.com/singhkrishna5454/SQL_Online_Music_Playlist_Analysis/assets/152013379/74274f59-70a6-47da-8377-db307d68e2fc">
